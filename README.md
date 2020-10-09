@@ -2,7 +2,7 @@
 Grading file / File with code: PyCitySchools_v2.2.ipynb
 
 
-*******************Important Notice******************
+*Important Notice*
 GitHub is shifting columns and displaying incorrectly. 
 
 Program runs fine and displays correctly in Jupyter Notebook 
