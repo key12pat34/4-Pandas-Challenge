@@ -1,6 +1,13 @@
 # Pandas-Challenge-HW4
 Grading file / File with code: PyCitySchools_v2.2.ipynb
 
+
+*******************Important Notice******************
+GitHub is shifting columns and displaying incorrectly. 
+
+Program runs fine and displays correctly in Jupyter Notebook 
+*****************************************************
+
 PyCity Schools Conclusions:
 
 1. The school district is collectively failing with seven out of fifteen schools all hovering around the 50% overall passing.
