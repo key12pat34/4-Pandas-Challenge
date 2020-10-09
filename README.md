@@ -3,7 +3,10 @@ Grading file / File with code: PyCitySchools_v2.2.ipynb
 
 
 ****Important Notice****:
-GitHub is shifting columns and displaying incorrectly in "School Summary", "Top performing", and "bottom Performing" dataframes. Program runs fine and displays correctly in Jupyter Notebook 
+GitHub is shifting columns and displaying incorrectly in "School Summary", "Top performing", and "bottom Performing" dataframes. Program runs fine and displays correctly in Jupyter Notebook.
+
+Please see link to see code displayed correctly:
+https://nbviewer.jupyter.org/github/key12pat34/Pandas-Challenge-HW4/blob/master/PyCitySchools_v2.2.ipynb
 *****************************************************
 
 PyCity Schools Conclusions:
