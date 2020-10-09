@@ -12,7 +12,7 @@ PyCity Schools Conclusions:
 
 2. The top performing schools are all charter schools and are likely to pass overall. The bottom performing schools are all district schools, and are likely to fail overall.
 
-3. Charter schools have lower total students counts which can lead us to conclude that due to the lower count of students, each student is mroe likely to get a more 'one-on-one'/"direct" educational experience with their instructors. Compared to charter schools, district schools have nearly double the count of students per school, so each instruction cannot provide the same "one-on-one" type services.
+3. Charter schools have lower total students counts which can lead us to conclude that due to the lower count of students, each student is mroe likely to get a more 'one-on-one'/"direct" educational experience with their instructors. Compared to charter schools, district schools have nearly double the count of students per school, so each instructior cannot provide the same "one-on-one" type service.
 
-4. we can also conclude that as the spending range per student, AND school size goes UP the overall passing scores go DOWN.
+4. We can also conclude that as the "Spending Range Rer Student", and "School Size" goes UP the overall passing scores go DOWN.
 
